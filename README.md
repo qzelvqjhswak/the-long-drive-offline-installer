@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Random generated open world semi-post apocalyptic survival car driving game.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,11 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min: Windows 10 64bit / Rec: Windows 10 64bit or higher | macOS 11.0 or later |
+| **Processor** | Min: +3 GHZ dual core processor / Rec: +3 GHZ quad core processor or higher | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 4 GB RAM / Rec: 8 GB RAM | 4 GB RAM |
+| **Graphics** | Min: Nvidia GTX 650 TI or AMD equivalent / Rec: Nvidia GTX 1050 TI or AMD equivalent or higher | Metal-capable GPU |
+| **Storage** | 700 MB available space | 700 MB available space |
 
 ---
 
